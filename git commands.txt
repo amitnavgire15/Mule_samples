@@ -1,0 +1,19 @@
+I cant hear you
+Suman Kumar6:40 PM
+https://github.com/TechTrainer562/Mule
+Suman Kumar6:56 PM
+git --version
+git config --global user.name "<provide your own username>"
+Suman Kumar6:57 PM
+git config --global user.email "provide your own sample email"
+Suman Kumar6:59 PM
+git init
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/amitnavgire15/Mule_samples.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/amitnavgire15/Mule_samples.git
+git push -u origin master
